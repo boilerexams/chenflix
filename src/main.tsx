@@ -6,6 +6,7 @@ import Layout from "./components/shared/Layout.tsx";
 import Course from "./pages/courses/Course.tsx";
 import { courses } from "./coursedata/courses.ts";
 
+
 const router = createBrowserRouter([
 	{
 		path: "/",
