@@ -105,7 +105,7 @@ export const ma303_data: Course = {
 		},
 		{
 			description: "Lesson 11 (7.3 Translation of Laplace Transforms)",
-			date: "Mon 2/2",
+			date: "Mon 2/5",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_gr0qq4g0",
 			notes:
