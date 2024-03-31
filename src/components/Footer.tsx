@@ -11,21 +11,15 @@ export default function Footer() {
 			</div>
 			<div className="flex items-center justify-center pt-1">
 				<p className="mb-1">A</p>
-				<a
-					target="_blank"
-					href="https://www.boilerexams.com/"
-				>
-				<img
-					src="/footer/BoilerExamsLogoWHITE.png"
-					alt="Made by Boilerexams"
-					className="w-28 p-2"
-				/>
+				<a target="_blank" href="https://www.boilerexams.com/">
+					<img
+						src="/footer/BoilerExamsLogoWHITE.png"
+						alt="Made by Boilerexams"
+						className="w-28 p-2"
+					/>
 				</a>
 				<p className="mb-1">Project</p>
-	</div>
-			{/*<div className="flex items-center justify-center pt-3">
-				A BoilerExams Project
-</div>*/}
+			</div>
 			<div className="flex items-center justify-center pt-3">
 				<a
 					target="_blank"
@@ -36,9 +30,8 @@ export default function Footer() {
 				</a>
 			</div>
 			<div className="flex items-center justify-center pt-2">
-				<a
-					href="mailto:chenjk@purdue.edu"
-				>
+				Support:
+				<a className="ml-1" href="mailto:chenjk@purdue.edu">
 					chenjk@purdue.edu
 				</a>
 			</div>
