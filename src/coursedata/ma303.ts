@@ -171,7 +171,7 @@ export const ma303_data: Course = {
 		},
 		{
 			description:
-				"Lesson 18 (9.1 Perodic Functions and Fourier Series (part 1))",
+				"Lesson 18 (9.1 Periodic Functions and Fourier Series (part 1))",
 			date: "Fri 2/23",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_9mfg7njy",
@@ -180,7 +180,7 @@ export const ma303_data: Course = {
 		},
 		{
 			description:
-				"Lesson 19 (9.1 Perodic Functions and Fourier Series (part 2))",
+				"Lesson 19 (9.1 Periodic Functions and Fourier Series (part 2))",
 			date: "Mon 2/26",
 			videos:
 				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_3dusc35z",
@@ -204,6 +204,96 @@ export const ma303_data: Course = {
 				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_9w2wx1a3",
 			notes:
 				"https://www.math.purdue.edu/~chenjk/MA303S24/Lesson%2021%20%289.2-2%29.pdf",
+		},
+		{
+			description:
+				"Recap",
+			date: "Mon 3/4",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_q6fg6o10",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Recap%282%29.pdf",
+		},
+		{
+			description:
+				"Lesson 22 (9.3 Fourier Cosine and Sine Series (part 1))",
+			date: "Wed 3/6",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_tcb7jkyp",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Lesson%2022%20%289.3-1%29.pdf",
+		},
+		{
+			description:
+				"Lesson 23 (9.3 Fourier Cosine and Sine Series (part 2))",
+			date: "Mon 3/18",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_u444adkk",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Lesson%2023%20%289.3-2%29.pdf",
+		},
+		{
+			description:
+				"Lesson 24 (9.4 Application of Fourier Series (part 1))",
+			date: "Wed 3/20",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_4whyr7vr",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Lesson%2024%20%289.4-1%29.pdf",
+		},
+		{
+			description:
+				"Lesson 25 (9.4 Application of Fourier Series (part 2))",
+			date: "Fri 3/22",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_yufu7ucu",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Lesson%2025%20%289.4-2%29.pdf",
+		},
+		{
+			description:
+				"Exam 2 Review",
+			date: "Mon 3/25",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_ikrsyaw2",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Exam%202%20Review.pdf",
+		},
+		{
+			description:
+				"Lesson 26 (9.5 Heat Equation (part 1))",
+			date: "Wed 3/27",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_7k0ii427",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Lesson%2026%20%289.5-1%29.pdf",
+		},
+		{
+			description:
+				"Lesson 27 (9.5 Heat Equation (part 2))",
+			date: "Mon 4/1",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_3udl9rhr",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Lesson%2027%20%289.5-2%29.pdf",
+		},
+		{
+			description:
+				"Lesson 28 (9.6 Wave Equation (part 1))",
+			date: "Wed 4/3",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_8msgc9ql",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Lesson%2028%20%289.6-1%29.pdf",
+		},
+		{
+			description:
+				"Lesson 29 (9.6 Wave Equation (part 2))",
+			date: "Fri 4/5",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_usy2s0vv",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Lesson%2029%20%289.6-2%29.pdf",
 		},
 	],
 };
