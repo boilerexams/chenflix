@@ -12,8 +12,8 @@ export const ma266_data: Course = {
             date: "Mon 6/13",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-13_P/0_b9yvuzcn/96165051",
-
-
+            boilerexams:
+                "https://www.boilerexams.com/courses/MA26600/topics/Autonomous%20Equation%20Stability/4e0f66fc-e766-4e03-9d49-f6013fa8433a"
         },
         {
             description:
@@ -22,7 +22,6 @@ export const ma266_data: Course = {
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-14_P/0_2zsxwuvu/96165051",
 
-
         },
         {
             description:
@@ -30,7 +29,8 @@ export const ma266_data: Course = {
             date: "Wed 6/15",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-15_P/0_sdeyh19y/96165051",
-
+            boilerexams:
+                "https://www.boilerexams.com/courses/MA26600/topics/Integrating%20Factor/2fc0521e-1486-4be8-9a4c-494b5be64da7"
 
         },
         {
@@ -39,7 +39,8 @@ export const ma266_data: Course = {
             date: "Thurs 6/16",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-16_P/0_z8cyl2gb/96165051",
-
+            boilerexams:
+                "https://www.boilerexams.com/courses/MA26600/topics/Separation%20of%20Variables/2d3ca60b-8d63-42fb-8e88-8db41d1ee595"
 
         },
         {
@@ -48,7 +49,8 @@ export const ma266_data: Course = {
             date: "Fri 6/17",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-17_P/0_xbmlx7ia/96165051",
-
+            boilerexams:
+                "https://www.boilerexams.com/courses/MA26600/topics/Salt%20Tank%20Application/fead5800-d633-4ac7-8aac-abd28efd06bf"
 
         },
         {
@@ -57,8 +59,7 @@ export const ma266_data: Course = {
             date: "Mon 6/20",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-20_P/0_fuw0kpnu/96165051",
-
-
+           
         },
         {
             description:
@@ -66,7 +67,8 @@ export const ma266_data: Course = {
             date: "Tues 6/21",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-21_P/0_o4y7it21/96165051",
-
+            boilerexams:
+                "https://www.boilerexams.com/courses/MA26600/topics/Autonomous%20Equation%20Stability/4e0f66fc-e766-4e03-9d49-f6013fa8433a"
 
         },
         {
@@ -75,7 +77,8 @@ export const ma266_data: Course = {
             date: "Wed 6/22",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-22_P/0_khyz0zot/96165051",
-
+            boilerexams:
+                "https://www.boilerexams.com/courses/MA26600/topics/Exact%20Equations/df5f37c0-51fe-4469-9b90-b5ae4220c975"
 
         },
         {
@@ -84,7 +87,8 @@ export const ma266_data: Course = {
             date: "Thurs 6/23",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-23_P/0_0oi9c1vg/96165051",
-
+            boilerexams:
+                "https://www.boilerexams.com/courses/MA26600/topics/Euler's%20Method/68ac0637-24cf-429e-9492-8b9fae11e287"
 
         },
         {
@@ -93,7 +97,8 @@ export const ma266_data: Course = {
             date: "Fri 6/24",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-24_P/0_pazdnzsx/96165051",
-
+            boilerexams:
+                ""
 
         },
         {
@@ -102,8 +107,8 @@ export const ma266_data: Course = {
             date: "Mon 6/27",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-27_P/0_qflgqd14/96165051",
-
-
+            boilerexams:
+                "https://www.boilerexams.com/courses/MA26600/exams"
         },
         {
             description:
@@ -111,7 +116,8 @@ export const ma266_data: Course = {
             date: "Wed 6/29",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-29_P/0_t67gvwvx/96165051",
-
+            boilerexams:
+                ""
 
         },
         {
@@ -120,7 +126,8 @@ export const ma266_data: Course = {
             date: "Thurs 6/30",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-06-30_P/0_fkeggx6s/96165051",
-
+            boilerexams:
+                ""
 
         },
         {
@@ -129,7 +136,8 @@ export const ma266_data: Course = {
             date: "Fri 7/01",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-01_P/0_7be7ruby/96165051",
-
+            boilerexams:
+                ""
 
         },
         {
@@ -138,7 +146,8 @@ export const ma266_data: Course = {
             date: "Tues 7/05",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-05_P/0_ev3agaz0/96165051",
-
+            boilerexams:
+                "https://www.boilerexams.com/courses/MA26600/topics/Undetermined%20Coefficients/fd14e1b4-b18c-41ba-a466-52998223ce1d"
 
         },
         {
@@ -147,7 +156,8 @@ export const ma266_data: Course = {
             date: "Wed 7/06",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-06_P/0_jbz5iufl/96165051",
-
+            boilerexams:
+                "https://www.boilerexams.com/courses/MA26600/topics/Variation%20of%20parameters/f05dd140-3e6e-4281-a6ac-f2a064191746"
 
         },
         {
@@ -156,7 +166,8 @@ export const ma266_data: Course = {
             date: "Thurs 7/07",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-07_P/0_nx78qgow/96165051",
-
+            boilerexams:
+                ""
 
         },
         {
@@ -165,7 +176,8 @@ export const ma266_data: Course = {
             date: "Fri 7/08",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-08_P/0_gqu9rfvt/96165051",
-
+            boilerexams:
+                ""
 
         },
         {
@@ -174,7 +186,8 @@ export const ma266_data: Course = {
             date: "Mon 7/11",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-11_P/0_1pcvf04s/96165051",
-
+            boilerexams:
+                ""
 
         },
         {
@@ -183,7 +196,8 @@ export const ma266_data: Course = {
             date: "Tues 7/12",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-12_P/0_vblvr27t/96165051",
-
+            boilerexams:
+                ""
 
         },
         {
@@ -192,7 +206,8 @@ export const ma266_data: Course = {
             date: "Wed 7/13",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-13_P/0_ce3x57t5/96165051",
-
+            boilerexams:
+                ""
 
         },
         {
@@ -201,7 +216,8 @@ export const ma266_data: Course = {
             date: "Thurs 7/14",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-14_P/0_2akvcxt0/96165051",
-
+            boilerexams:
+                "https://www.boilerexams.com/courses/MA26600/exams"
 
         },
         {
@@ -210,7 +226,8 @@ export const ma266_data: Course = {
             date: "Mon 7/18",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-18_P/0_eo9giokh/96165051",
-
+            boilerexams:
+                ""
 
         },
         {
@@ -219,7 +236,8 @@ export const ma266_data: Course = {
             date: "Tues 7/19",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-19_P/0_9e92gxpk/96165051",
-
+            boilerexams:
+                ""
 
         },
         {
@@ -228,7 +246,8 @@ export const ma266_data: Course = {
             date: "Wed 7/20",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-07-20_P/0_bw5pppvr/96165051",
-
+            boilerexams:
+                ""
 
         },
         {
@@ -300,7 +319,7 @@ export const ma266_data: Course = {
             date: "Mon 8/01",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-08-01_P/0_eb6yt6nm/96165051",
-
+            
 
         },
         {
@@ -309,6 +328,9 @@ export const ma266_data: Course = {
             date: "Tues 8/02",
             videos:
                 "https://mediaspace.itap.purdue.edu/media/Summer+2016+-+MA266+-+Chen_2016-08-02_P/0_e7e7g64u/96165051",
+            boilerexams:
+                "https://www.boilerexams.com/courses/MA26600/exams"
+
         },
     ],
 };
