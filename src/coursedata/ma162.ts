@@ -295,7 +295,7 @@ export const ma162_data: Course = {
 			description: "Lesson 29 (11.2 Properties of Power Series (part 1))",
 			date: "Fri 11/10",
 			videos:
-				"https://mediaspace.itap.purdue.edu/media/Fall+2023+-+MA162+-+Chen+%287A27%29/1_xd69iu2l",
+				"https://mediaspace.itap.purdue.edu/media/Fall+2023+-+MA162+-+Chen+%287A27%29/1_gdr6dth7",
 			notes:
 				"https://www.math.purdue.edu/~chenjk/MA162F23/Lesson%2029%20--%2011.2%281%29.pdf",
 		},
