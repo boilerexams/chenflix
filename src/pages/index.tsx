@@ -7,7 +7,7 @@ export default function Home() {
 	return (
 		<div className="bg-black">
 			<div className="min-h-screen bg-black text-white">
-				{/* <Capybara /> */}
+				<Capybara />
 				<img
 					className="absolute left-1/2 top-4 w-40 -translate-x-1/2"
 					src="images/chenflix.png"
@@ -18,7 +18,7 @@ export default function Home() {
 						<CoursePreview key={course.id} course={course} />
 					))}
 				</div>
-				<div className="w-full p-4 pt-32 lg:absolute bg-black">
+				<div className="w-full p-4 pt-32 lg:absolute">
 					<Footer />
 				</div>
 			</div>
