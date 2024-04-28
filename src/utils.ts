@@ -11,5 +11,5 @@ export function useTitle(title: string) {
 }
 
 export function setTitle(title: string) {
-	document.title = `${import.meta.env.DEV && "[DEV]"} ${title}`;
+	document.title = `${import.meta.env.DEV ? "[DEV]" : ""} ${title}`;
 }
