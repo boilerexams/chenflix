@@ -5,6 +5,13 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Layout from "./components/shared/Layout.tsx";
 import Course from "./pages/courses/Course.tsx";
 import { courses } from "./coursedata/courses.ts";
+import posthog from "posthog-js";
+
+posthog.init(import.meta.env.VITE_POSTHOG_API_KEY, {
+	api_host: "https://us.i.posthog.com",
+	autocapture: false,
+	capture_pageview: false,
+});
 
 const router = createBrowserRouter([
 	{

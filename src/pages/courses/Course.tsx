@@ -1,10 +1,12 @@
 import { useLoaderData } from "react-router-dom";
 import CourseEvent from "../../components/CourseEvent";
 import { useState } from "react";
+import { useTitle } from "~/utils";
 
 export default function Course() {
 	const course: Course = useLoaderData() as Course;
 	const [search, setSearch] = useState("");
+	useTitle(`Chenflix | ${course.name}`);
 
 	return (
 		<div>

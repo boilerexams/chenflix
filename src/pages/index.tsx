@@ -2,8 +2,11 @@ import Footer from "~/components/Footer";
 import CoursePreview from "../components/CoursePreview";
 import { courses } from "../coursedata/courses";
 import Capybara from "../three/capy";
+import { useTitle } from "~/utils";
 
 export default function Home() {
+	useTitle("Chenflix");
+
 	return (
 		<div className="bg-black">
 			<div className="min-h-screen bg-black text-white">
