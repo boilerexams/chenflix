@@ -295,5 +295,77 @@ export const ma303_data: Course = {
 			notes:
 				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Lesson%2029%20%289.6-2%29.pdf",
 		},
+		{
+			description:
+				"Recap",
+			date: "Wed 4/10",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_ipdnof1a",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Recap%283%29.pdf",
+		},
+		{
+			description:
+				"Lesson 30 (9.7 Laplace's Equation (part 1))",
+			date: "Fri 4/12",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_47eg8uwx",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Lesson%2030%20%289.7-1%29.pdf",
+		},
+		{
+			description:
+				"Lesson 31 (9.7 Laplace's Equation (part 2))",
+			date: "Mon 4/15",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_uzeeadhr",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Lesson%2031%20%289.7-2%29.pdf",
+		},
+		{
+			description:
+				"Lesson 32 (10.1 Sturm-Liouville Problem (part 1))",
+			date: "Wed 4/17",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_ja8iwedo",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Lesson%2032%20%2810.1-1%29.pdf",
+		},
+		{
+			description:
+				"Lesson 33 (10.1 Sturm-Liouville Problem (part 2))",
+			date: "Fri 4/19",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_3qdk477x",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Lesson%2033%20%2810.1-2%29.pdf",
+		},
+		{
+			description:
+				"Review for Final Exam (part 1)",
+			date: "Mon 4/22",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_rx66bjmn",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Final%20Review%201.pdf",
+		},
+		{
+			description:
+				"Review for Final Exam (part 2)",
+			date: "Wed 4/24",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_9z7fmiha",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Final%20rEview%202.pdf",
+		},
+		{
+			description:
+				"Review for Final Exam (part 3)",
+			date: "Fri 4/26",
+			videos:
+				"https://mediaspace.itap.purdue.edu/media/Spring+2024+-+MA303+-+Chen+%287A30%29/1_am6iisiw",
+			notes:
+				"https://www.math.purdue.edu/%7Echenjk/MA303S24/Final%20Review%203.pdf",
+		},
 	],
 };
